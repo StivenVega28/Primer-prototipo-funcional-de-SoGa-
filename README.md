@@ -162,17 +162,8 @@ solucionesGarantizadas/
 
 Este proyecto es desarrollado con fines educativos y de gestión empresarial.
 
-## 🐛 Problemas Conocidos
-
-- El método `Cerrar()` en `ClsConexion.java` está vacío y debe implementarse
-- Las credenciales de la base de datos están hardcodeadas
-- No se maneja adecuadamente el cierre de conexiones a la base de datos
-
 ## 🔜 Mejoras Futuras
 
-- Implementar pool de conexiones
-- Mover credenciales a archivo de configuración externo
-- Mejorar manejo de excepciones
 - Implementar validación de formularios más robusta
 - Agregar reportes en PDF
 - Implementar backup de base de datos

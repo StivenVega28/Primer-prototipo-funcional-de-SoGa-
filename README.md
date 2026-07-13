@@ -151,13 +151,6 @@ solucionesGarantizadas/
 - **Stiven Aparicio Vega**
 - **Carlos Andres Castañeda Monsalve**
 
-## 📝 Notas
-
-- El sistema utiliza arquitectura MVC (Modelo-Vista-Controlador)
-- Las credenciales de la base de datos están configuradas en `ClsConexion.java`
-- Se recomienda cambiar las credenciales por defecto en entornos de producción
-- El método `Cerrar()` en `ClsConexion.java` debe implementarse para cerrar conexiones properly
-
 ## 📄 Licencia
 
 Este proyecto es desarrollado con fines educativos y de gestión empresarial.
